@@ -1,0 +1,1110 @@
+drug_name	drug_id	ind_name	ind_id	NCT	status	phase	DetailedStatus	label	functional_failure	doid_code	doid_name
+Cetuximab	DB00002	Laryngeal Squamous Cell Carcinoma	C0280324		Approved			1		DOID:2596	larynx cancer
+Cetuximab	DB00002	Malignant tumor of colon	C0007102		Approved			1		DOID:219	colon cancer
+Trifluridine	DB00432	Malignant tumor of colon	C0007102		Approved			1		DOID:219	colon cancer
+Fluorouracil	DB00544	Malignant tumor of colon	C0007102		Approved			1		DOID:219	colon cancer
+Tipiracil	DB09343	Malignant tumor of colon	C0007102		Approved			1		DOID:219	colon cancer
+Sulindac	DB00605	Malignant tumor of colon	C0007102	NCT00062023	Terminated	Phase 2	Study closed by the NCI.	0	True	DOID:219	colon cancer
+Salicylic acid	DB00936	Malignant tumor of colon	C0007102	NCT00062023	Terminated	Phase 2	Study closed by the NCI.	0	True	DOID:219	colon cancer
+Acetylsalicylic acid	DB00945	Malignant tumor of colon	C0007102	NCT00062023	Terminated	Phase 2	Study closed by the NCI.	0	True	DOID:219	colon cancer
+Ursodeoxycholic acid	DB01586	Malignant tumor of colon	C0007102	NCT00062023	Terminated	Phase 2	Study closed by the NCI.	0	True	DOID:219	colon cancer
+Mitomycin	DB00305	Malignant tumor of colon	C0007102	NCT00271011	Terminated	Phase 2	The study was discontinued due to the death of a co-investigator and a second co-investigator    leaving the institution.	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	Malignant tumor of colon	C0007102	NCT00271011	Terminated	Phase 2	The study was discontinued due to the death of a co-investigator and a second co-investigator    leaving the institution.	0	True	DOID:219	colon cancer
+Bevacizumab	DB00112	Malignant tumor of colon	C0007102	NCT00394992	Terminated	Phase 3	Data from the C08 study and Avant study	0	True	DOID:219	colon cancer
+Oxaliplatin	DB00526	Malignant tumor of colon	C0007102	NCT00394992	Terminated	Phase 3	Data from the C08 study and Avant study	0	True	DOID:219	colon cancer
+Capecitabine	DB01101	Malignant tumor of colon	C0007102	NCT00394992	Terminated	Phase 3	Data from the C08 study and Avant study	0	True	DOID:219	colon cancer
+Citalopram	DB00215	Malignant tumor of colon	C0007102	NCT00387348	Terminated	Phase 3	DSMB stopped study because placebo arm had more adverse events	0	True	DOID:219	colon cancer
+Capecitabine	DB01101	Malignant tumor of colon	C0007102	NCT00538291	Terminated	Phase 2	Study was terminated early due to lack of efficacy.	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	Malignant tumor of colon	C0007102	NCT00677924	Terminated	Phase 1/Phase 2	Due to changes in portfolio review	0	True	DOID:219	colon cancer
+Bevacizumab	DB00112	Malignant tumor of colon	C0007102	NCT01006369	Suspended	Phase 2	Interim analysis	0	True	DOID:219	colon cancer
+Hydroxychloroquine	DB01611	Malignant tumor of colon	C0007102	NCT01006369	Suspended	Phase 2	Interim analysis	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	Malignant tumor of colon	C0007102	NCT01016860	Terminated	Phase 1	This study was discontinued due to a shown lack of efficacy in the investigational agent	0	True	DOID:219	colon cancer
+Oxaliplatin	DB00526	Malignant tumor of colon	C0007102	NCT01157039	Withdrawn	Phase 2	abandoned	0	True	DOID:219	colon cancer
+Aldesleukin	DB00041	Malignant tumor of colon	C0007102	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:219	colon cancer
+Vidarabine	DB00194	Malignant tumor of colon	C0007102	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:219	colon cancer
+Cyclophosphamide	DB00531	Malignant tumor of colon	C0007102	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:219	colon cancer
+Fludarabine	DB01073	Malignant tumor of colon	C0007102	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	Malignant tumor of colon	C0007102	NCT01367275	Terminated	Phase 2	Sponsor closed study	0	True	DOID:219	colon cancer
+Bevacizumab	DB00112	Malignant tumor of colon	C0007102	NCT01375816	Terminated	Phase 2	efficacy interim analysis as per protocol	0	True	DOID:219	colon cancer
+Leucovorin	DB00650	Malignant tumor of colon	C0007102	NCT01375816	Terminated	Phase 2	efficacy interim analysis as per protocol	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	Malignant tumor of colon	C0007102	NCT01375816	Terminated	Phase 2	efficacy interim analysis as per protocol	0	True	DOID:219	colon cancer
+Levoleucovorin	DB11596	Malignant tumor of colon	C0007102	NCT01375816	Terminated	Phase 2	efficacy interim analysis as per protocol	0	True	DOID:219	colon cancer
+Etanercept	DB00005	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Anakinra	DB00026	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Adalimumab	DB00051	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Infliximab	DB00065	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Rituximab	DB00073	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Cyclosporine	DB00091	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Indomethacin	DB00328	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Betamethasone	DB00443	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Nabumetone	DB00461	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Celecoxib	DB00482	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Tolmetin	DB00500	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Piroxicam	DB00554	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Methotrexate	DB00563	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Fenoprofen	DB00573	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Diclofenac	DB00586	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Sulindac	DB00605	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Chloroquine	DB00608	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Triamcinolone	DB00620	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Prednisone	DB00635	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Flurbiprofen	DB00712	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Hydrocortisone	DB00741	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Etodolac	DB00749	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Naproxen	DB00788	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Sulfasalazine	DB00795	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Meloxicam	DB00814	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Penicillamine	DB00859	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Prednisolone	DB00860	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Diflunisal	DB00861	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Salicylic acid	DB00936	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Meclofenamic acid	DB00939	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Acetylsalicylic acid	DB00945	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Methylprednisolone	DB00959	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Oxaprozin	DB00991	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Azathioprine	DB00993	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Auranofin	DB00995	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Ketoprofen	DB01009	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Ibuprofen	DB01050	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Leflunomide	DB01097	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Dexamethasone	DB01234	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Abatacept	DB01281	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Lithium	DB01356	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Cortisone acetate	DB01380	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Magnesium salicylate	DB01397	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Salsalate	DB01399	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Tiaprofenic acid	DB01600	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Hydroxychloroquine	DB01611	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Tocilizumab	DB06273	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+golimumab	DB06674	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Teriflunomide	DB08880	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Tofacitinib	DB08895	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Certolizumab pegol	DB08904	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Loxoprofen	DB09212	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Dexibuprofen	DB09213	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Sodium aurothiomalate	DB09276	Rheumatoid Arthritis	C0003873		Approved			1		DOID:7148	rheumatoid arthritis
+Belimumab	DB08879	Rheumatoid Arthritis	C0003873	NCT00583557	Terminated	Phase 2	Sponsor decision - not related to safety	0	True	DOID:7148	rheumatoid arthritis
+Thalidomide	DB01041	Rheumatoid Arthritis	C0003873	NCT01285310	Terminated	Phase 2	Study is terminated due to lack of efficacy	0	True	DOID:7148	rheumatoid arthritis
+Apremilast	DB05676	Rheumatoid Arthritis	C0003873	NCT01285310	Terminated	Phase 2	Study is terminated due to lack of efficacy	0	True	DOID:7148	rheumatoid arthritis
+Dipyridamole	DB00975	Rheumatoid Arthritis	C0003873	NCT01612377	Terminated	Phase 2	missed endpoint of meaningful clinical benefit, compared to prednisolone 2.7mg	0	True	DOID:7148	rheumatoid arthritis
+Etanercept	DB00005	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Adalimumab	DB00051	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Infliximab	DB00065	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Betamethasone	DB00443	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Triamcinolone	DB00620	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Prednisone	DB00635	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Hydrocortisone	DB00741	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Prednisolone	DB00860	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Methylprednisolone	DB00959	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Leflunomide	DB01097	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Dexamethasone	DB01234	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Cortisone acetate	DB01380	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Apremilast	DB05676	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Ustekinumab	DB05679	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+golimumab	DB06674	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Teriflunomide	DB08880	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Certolizumab pegol	DB08904	Arthritis, Psoriatic	C0003872		Approved			1		DOID:9008	psoriatic arthritis
+Etanercept	DB00005	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Adalimumab	DB00051	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Infliximab	DB00065	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Indomethacin	DB00328	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Betamethasone	DB00443	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Celecoxib	DB00482	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Diclofenac	DB00586	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Sulindac	DB00605	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Triamcinolone	DB00620	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Prednisone	DB00635	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Hydrocortisone	DB00741	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Naproxen	DB00788	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Prednisolone	DB00860	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Methylprednisolone	DB00959	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Dexamethasone	DB01234	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Cortisone acetate	DB01380	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+golimumab	DB06674	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Certolizumab pegol	DB08904	Ankylosing spondylitis	C0038013		Approved			1		DOID:7147	ankylosing spondylitis
+Alteplase	DB00009	Acute myocardial infarction	C0155626		Approved			1		DOID:3393	coronary artery disease
+Reteplase	DB00015	Acute myocardial infarction	C0155626		Approved			1		DOID:3393	coronary artery disease
+Tenecteplase	DB00031	Acute myocardial infarction	C0155626		Approved			1		DOID:3393	coronary artery disease
+Salmon Calcitonin	DB00017	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Pamidronate	DB00282	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Zoledronic acid	DB00399	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Alendronic acid	DB00630	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Risedronate	DB00884	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Etidronic acid	DB01077	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Tiludronate	DB01133	Osteitis Deformans	C0029401		Approved			1		DOID:5408	Paget's disease of bone
+Asparaginase	DB00023	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Pegaspargase	DB00059	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Vindesine	DB00309	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Betamethasone	DB00443	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Teniposide	DB00444	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Vincristine	DB00541	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Methotrexate	DB00563	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Triamcinolone	DB00620	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Clofarabine	DB00631	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Prednisone	DB00635	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Daunorubicin	DB00694	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Hydrocortisone	DB00741	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Prednisolone	DB00860	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Methylprednisolone	DB00959	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Cytarabine	DB00987	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Doxorubicin	DB00997	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Mercaptopurine	DB01033	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Dexamethasone	DB01234	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Cortisone acetate	DB01380	Acute lymphocytic leukemia	C0023449		Approved			1		DOID:2531	hematologic cancer
+Insulin Human	DB00030	Diabetes Mellitus, Insulin-Dependent	C0011854		Approved			1		DOID:9744	type 1 diabetes mellitus
+Insulin Lispro	DB00046	Diabetes Mellitus, Insulin-Dependent	C0011854		Approved			1		DOID:9744	type 1 diabetes mellitus
+Insulin Glargine	DB00047	Diabetes Mellitus, Insulin-Dependent	C0011854		Approved			1		DOID:9744	type 1 diabetes mellitus
+Insulin Human	DB00030	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Insulin Lispro	DB00046	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Insulin Glargine	DB00047	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Glimepiride	DB00222	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Acarbose	DB00284	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Metformin	DB00331	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Miglitol	DB00491	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Chlorpropamide	DB00672	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Nateglinide	DB00731	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Tolazamide	DB00839	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Repaglinide	DB00912	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Glyburide	DB01016	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Glipizide	DB01067	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Gliclazide	DB01120	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Tolbutamide	DB01124	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Pioglitazone	DB01132	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Gliquidone	DB01251	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Mitiglinide	DB01252	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Sitagliptin	DB01261	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Glisoxepide	DB01289	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Glycodiazine	DB01382	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Vildagliptin	DB04876	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Voglibose	DB04878	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Alogliptin	DB06203	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Dapagliflozin	DB06292	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Saxagliptin	DB06335	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Liraglutide	DB06655	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Linagliptin	DB08882	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Canagliflozin	DB08907	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Empagliflozin	DB09038	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Albiglutide	DB09043	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Dulaglutide	DB09045	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Lobeglitazone	DB09198	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Lixisenatide	DB09265	Diabetes Mellitus, Non-Insulin-Dependent	C0011860		Approved			1		DOID:9352	type 2 diabetes mellitus
+Exenatide	DB01276	Diabetes Mellitus, Non-Insulin-Dependent	C0011860	NCT02020616	Terminated	Phase 1/Phase 2	Lack of Efficacy	0	True	DOID:9352	type 2 diabetes mellitus
+Aldesleukin	DB00041	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Gemtuzumab ozogamicin	DB00056	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Tioguanine	DB00352	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Daunorubicin	DB00694	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Cytarabine	DB00987	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Doxorubicin	DB00997	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Idarubicin	DB01177	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Mitoxantrone	DB01204	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Decitabine	DB01262	Leukemia, Myelocytic, Acute	C0023467		Approved			1		DOID:2531	hematologic cancer
+Etoposide	DB00773	Leukemia, Myelocytic, Acute	C0023467	NCT00660036	Terminated	Phase 1	due to new safety information	0	True	DOID:2531	hematologic cancer
+Tretinoin	DB00755	Leukemia, Myelocytic, Acute	C0023467	NCT01067274	Withdrawn	Phase 3	Study abandoned	0	True	DOID:2531	hematologic cancer
+Azacitidine	DB00928	Leukemia, Myelocytic, Acute	C0023467	NCT01067274	Withdrawn	Phase 3	Study abandoned	0	True	DOID:2531	hematologic cancer
+Omalizumab	DB00043	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Flunisolide	DB00180	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Theophylline	DB00277	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Norepinephrine	DB00368	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Beclomethasone dipropionate	DB00394	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Betamethasone	DB00443	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Zafirlukast	DB00549	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Triamcinolone	DB00620	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Prednisone	DB00635	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Dyphylline	DB00651	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Epinephrine	DB00668	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Nedocromil	DB00716	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Hydrocortisone	DB00741	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Mometasone	DB00764	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Orciprenaline	DB00816	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Prednisolone	DB00860	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Terbutaline	DB00871	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Pemirolast	DB00885	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Methylprednisolone	DB00959	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Cromoglicic acid	DB01003	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Budesonide	DB01222	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Aminophylline	DB01223	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Dexamethasone	DB01234	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Desonide	DB01260	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Pirbuterol	DB01291	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Cortisone acetate	DB01380	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Tiotropium	DB01409	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Ciclesonide	DB01410	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Pranlukast	DB01411	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Ibudilast	DB05266	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Tranilast	DB07615	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Fluticasone furoate	DB08906	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Vilanterol	DB09082	Asthma	C0004096		Approved			1		DOID:2841	asthma
+Adalimumab	DB00051	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Infliximab	DB00065	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Mesalazine	DB00244	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Sulfadiazine	DB00359	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Hydrocortisone	DB00741	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Sulfasalazine	DB00795	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Prednisolone	DB00860	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Balsalazide	DB01014	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Cortisone acetate	DB01380	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+golimumab	DB06674	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+Vedolizumab	DB09033	Ulcerative Colitis	C0009324		Approved			1		DOID:8577	ulcerative colitis
+L-Carnitine	DB00583	Ulcerative Colitis	C0009324	NCT01538251	Terminated	Phase 3	Evidence of very low probability to success. No safety issues.	0	True	DOID:8577	ulcerative colitis
+L-Carnitine	DB00583	Ulcerative Colitis	C0009324	NCT01567956	Terminated	Phase 3	Evidence of very low probability to success. No safety issues	0	True	DOID:8577	ulcerative colitis
+Interferon beta-1a	DB00060	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Interferon beta-1b	DB00068	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Alemtuzumab	DB00087	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Daclizumab	DB00111	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Mitoxantrone	DB01204	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Fingolimod	DB08868	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Dimethyl fumarate	DB08908	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Peginterferon beta-1a	DB09122	Multiple Sclerosis, Relapsing-Remitting	C0751967		Approved			1		DOID:2377	multiple sclerosis
+Natalizumab	DB00108	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Betamethasone	DB00443	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Triamcinolone	DB00620	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Prednisone	DB00635	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Hydrocortisone	DB00741	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Prednisolone	DB00860	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Methylprednisolone	DB00959	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Dexamethasone	DB01234	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Cortisone acetate	DB01380	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Glatiramer Acetate	DB05259	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Dalfampridine	DB06637	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Teriflunomide	DB08880	Multiple Sclerosis	C0026769		Approved			1		DOID:2377	multiple sclerosis
+Dimethyl fumarate	DB08908	Multiple Sclerosis	C0026769	NCT02428231	Terminated	Phase 3	Sponsor decision	0	True	DOID:2377	multiple sclerosis
+Bevacizumab	DB00112	Cervix carcinoma	C0302592		Approved			1		DOID:4362	cervical cancer
+Bevacizumab	DB00112	Malignant neoplasm of fallopian tube	C0153579		Approved			1		DOID:1964	fallopian tube cancer
+L-Serine	DB00133	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Betaxolol	DB00195	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Travoprost	DB00287	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Timolol	DB00373	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Carbachol	DB00411	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Dipivefrin	DB00449	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Brimonidine	DB00484	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Carteolol	DB00521	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Clonidine	DB00575	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Latanoprost	DB00654	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Epinephrine	DB00668	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Methazolamide	DB00703	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Acetazolamide	DB00819	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Dorzolamide	DB00869	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Bimatoprost	DB00905	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Apraclonidine	DB00964	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Physostigmine	DB00981	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Echothiophate	DB01057	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Pilocarpine	DB01085	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Diclofenamide	DB01144	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Brinzolamide	DB01194	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Levobunolol	DB01210	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Metipranolol	DB01214	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Paclitaxel	DB01229	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Unoprostone	DB06826	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Tafluprost	DB08819	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Levobetaxolol	DB09351	Glaucoma, Open-Angle	C0017612		Approved			1		DOID:1686	glaucoma
+Xanthophyll	DB00137	Age related macular degeneration	C0242383		Approved			1		DOID:10871	age related macular degeneration
+Ergocalciferol	DB00153	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Cholecalciferol	DB00169	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Zoledronic acid	DB00399	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Risedronate	DB00884	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Phylloquinone	DB01022	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Magnesium oxide	DB01377	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Incadronic acid	DB06255	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Denosumab	DB06643	Osteoporosis	C0029456		Approved			1		DOID:11476	osteoporosis
+Valsartan	DB00177	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Ramipril	DB00178	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Betaxolol	DB00195	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Reserpine	DB00206	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Torasemide	DB00214	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Guanadrel	DB00226	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Methyclothiazide	DB00232	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Metoprolol	DB00264	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Isradipine	DB00270	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Olmesartan	DB00275	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Chlorthalidone	DB00310	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nitroprusside	DB00325	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Atenolol	DB00335	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Diltiazem	DB00343	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Minoxidil	DB00350	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Timolol	DB00373	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Amlodipine	DB00381	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Triamterene	DB00384	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nisoldipine	DB00401	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Spironolactone	DB00421	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Bendroflumethiazide	DB00436	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Prazosin	DB00457	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Fosinopril	DB00492	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Trandolapril	DB00519	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Carteolol	DB00521	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Metolazone	DB00524	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Lercanidipine	DB00528	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Benazepril	DB00542	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Propranolol	DB00571	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Clonidine	DB00575	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Enalapril	DB00584	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Doxazosin	DB00590	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Amiloride	DB00594	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Labetalol	DB00598	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Bisoprolol	DB00612	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nicardipine	DB00622	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Guanabenz	DB00629	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Mecamylamine	DB00657	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Verapamil	DB00661	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Losartan	DB00678	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Moexipril	DB00691	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Furosemide	DB00695	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Eplerenone	DB00700	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Lisinopril	DB00722	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Hydroflumethiazide	DB00774	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Perindopril	DB00790	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Candesartan	DB00796	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Indapamide	DB00808	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Eprosartan	DB00876	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Chlorothiazide	DB00880	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Quinapril	DB00881	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Pindolol	DB00960	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Telmisartan	DB00966	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Methyldopa	DB00968	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Isotretinoin	DB00982	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Hydrochlorothiazide	DB00999	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Guanfacine	DB01018	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Trichlormethiazide	DB01021	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Felodipine	DB01023	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Irbesartan	DB01029	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Atorvastatin	DB01076	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nifedipine	DB01115	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Carvedilol	DB01136	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Terazosin	DB01162	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Guanethidine	DB01170	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Acebutolol	DB01193	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Captopril	DB01197	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nadolol	DB01203	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Paclitaxel	DB01229	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Hydralazine	DB01275	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Polythiazide	DB01324	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Cilazapril	DB01340	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Spirapril	DB01348	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Tasosartan	DB01349	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Penbutolol	DB01359	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Oxprenolol	DB01580	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Pargyline	DB01626	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Celiprolol	DB04846	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Nebivolol	DB04861	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Clevidipine	DB04920	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Bupranolol	DB08808	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Azilsartan medoxomil	DB08822	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Aliskiren	DB09026	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Aranidipine	DB09229	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Azelnidipine	DB09230	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Efonidipine	DB09235	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Fimasartan	DB09279	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Enalaprilat	DB09477	Hypertensive disease	C0020538		Approved			1		DOID:10763	hypertension
+Etomidate	DB00292	Hypertensive disease	C0020538	NCT01248234	Withdrawn	Phase 3	Did not begin	0	True	DOID:10763	hypertension
+Propofol	DB00818	Hypertensive disease	C0020538	NCT01248234	Withdrawn	Phase 3	Did not begin	0	True	DOID:10763	hypertension
+Amphetamine	DB00182	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Phentermine	DB00191	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Mazindol	DB00579	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Naltrexone	DB00704	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Phenmetrazine	DB00830	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Benzphetamine	DB00865	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Diethylpropion	DB00937	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Orlistat	DB01083	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Sibutramine	DB01105	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Bupropion	DB01156	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Dexfenfluramine	DB01191	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Fenproporex	DB01550	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Methamphetamine	DB01577	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Phendimetrazine	DB01579	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Lorcaserin	DB04871	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Rimonabant	DB06155	Obesity	C0028754		Approved			1		DOID:9970	obesity
+Topiramate	DB00273	Obesity	C0028754	NCT00231634	Terminated	Phase 3	Program discontinued	0	True	DOID:9970	obesity
+Topiramate	DB00273	Obesity	C0028754	NCT00231621	Terminated	Phase 3	The study was terminated prior to completion to focus on the development of a controlled    release formulation.	0	True	DOID:9970	obesity
+Metoprolol	DB00264	Obesity	C0028754	NCT00993421	Terminated	Phase 2	Clinical trial terminated due to results from recent nonclinical studies	0	True	DOID:9970	obesity
+Amphetamine	DB00182	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Methylphenidate	DB00422	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Modafinil	DB00745	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Gamma Hydroxybutyric Acid	DB01440	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Dextroamphetamine	DB01576	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Armodafinil	DB06413	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Sodium oxybate	DB09072	Narcolepsy	C0027404		Approved			1		DOID:8986	narcolepsy
+Nicotine	DB00184	Nicotine Dependence	C0028043		Approved			1		DOID:0050742	nicotine dependence
+Bupropion	DB01156	Nicotine Dependence	C0028043		Approved			1		DOID:0050742	nicotine dependence
+Lorazepam	DB00186	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Valproic Acid	DB00313	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Trimethadione	DB00347	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Ethosuximide	DB00593	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Paramethadione	DB00617	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Acetazolamide	DB00819	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Phensuximide	DB00832	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Clonazepam	DB01068	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Methsuximide	DB05246	Absence Epilepsy	C0014553		Approved			1		DOID:1826	epilepsy syndrome
+Lorazepam	DB00186	Epilepsies, Myoclonic	C0014550		Approved			1		DOID:1826	epilepsy syndrome
+Clonazepam	DB01068	Epilepsies, Myoclonic	C0014550		Approved			1		DOID:1826	epilepsy syndrome
+Nitrazepam	DB01595	Epilepsies, Myoclonic	C0014550		Approved			1		DOID:1826	epilepsy syndrome
+Stiripentol	DB09118	Epilepsies, Myoclonic	C0014550		Approved			1		DOID:1826	epilepsy syndrome
+Lorazepam	DB00186	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Phenytoin	DB00252	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Pentobarbital	DB00312	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Secobarbital	DB00418	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Diazepam	DB00829	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Fosphenytoin	DB01320	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Amobarbital	DB01351	Status Epilepticus	C0038220		Approved			1		DOID:1826	epilepsy syndrome
+Lorazepam	DB00186	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Venlafaxine	DB00285	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Alprazolam	DB00404	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Fluoxetine	DB00472	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Paroxetine	DB00715	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Clonazepam	DB01068	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Sertraline	DB01104	Panic Disorder	C0030319		Approved			1		DOID:594	panic disorder
+Bortezomib	DB00188	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Carmustine	DB00262	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Lenalidomide	DB00480	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Doxorubicin	DB00997	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Thalidomide	DB01041	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Melphalan	DB01042	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Dexamethasone	DB01234	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Elotuzumab	DB06317	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Panobinostat	DB06603	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Plerixafor	DB06809	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Carfilzomib	DB08889	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Pomalidomide	DB08910	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Daratumumab	DB09331	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Ixazomib	DB09570	Multiple Myeloma	C0026764		Approved			1		DOID:2531	hematologic cancer
+Clofarabine	DB00631	Multiple Myeloma	C0026764	NCT00241371	Terminated	Phase 2	No response seen in patients	0	True	DOID:2531	hematologic cancer
+Azacitidine	DB00928	Multiple Myeloma	C0026764	NCT00412919	Terminated	Phase 2	Lack of efficacy	0	True	DOID:2531	hematologic cancer
+Belinostat	DB05015	Multiple Myeloma	C0026764	NCT00431340	Terminated	Phase 2	Terminated due to dose limiting toxicity	0	True	DOID:2531	hematologic cancer
+Vincristine	DB00541	Multiple Myeloma	C0026764	NCT00441168	Terminated	Phase 2	TRIAL STOPPED due to a change in standard of care and the required patient numbers could no    longer be achieved	0	True	DOID:2531	hematologic cancer
+Clofarabine	DB00631	Multiple Myeloma	C0026764	NCT00626626	Terminated	Phase 1/Phase 2	Investigator decision	0	True	DOID:2531	hematologic cancer
+Vitamin C	DB00126	Multiple Myeloma	C0026764	NCT01125449	Suspended	Phase 2	Awaiting response from FDA as to status of parenteral ascorbic acid manufactured by Bioniche    (Ireland).	0	True	DOID:2531	hematologic cancer
+Sirolimus	DB00877	Multiple Myeloma	C0026764	NCT01234974	Withdrawn	Phase 2	Study never undertaken	0	True	DOID:2531	hematologic cancer
+Everolimus	DB01590	Multiple Myeloma	C0026764	NCT01234974	Withdrawn	Phase 2	Study never undertaken	0	True	DOID:2531	hematologic cancer
+Pegfilgrastim	DB00019	Multiple Myeloma	C0026764	NCT01537861	Terminated	Phase 0	Unexpected toxicity (2 early deaths)	0	True	DOID:2531	hematologic cancer
+Etoposide	DB00773	Multiple Myeloma	C0026764	NCT01653418	Terminated	Phase 2	Due to the high rate of morbidity and mortality	0	True	DOID:2531	hematologic cancer
+Cytarabine	DB00987	Multiple Myeloma	C0026764	NCT01653418	Terminated	Phase 2	Due to the high rate of morbidity and mortality	0	True	DOID:2531	hematologic cancer
+Carbidopa	DB00190	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Benzatropine	DB00245	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Ropinirole	DB00268	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Tolcapone	DB00323	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Norepinephrine	DB00368	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Trihexyphenidyl	DB00376	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Procyclidine	DB00387	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Pramipexole	DB00413	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Entacapone	DB00494	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Apomorphine	DB00714	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Biperiden	DB00810	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Amantadine	DB00915	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Cycrimine	DB00942	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Dopamine	DB00988	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Selegiline	DB01037	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Bromocriptine	DB01200	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Levodopa	DB01235	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Rasagiline	DB01367	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Rotigotine	DB05271	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Droxidopa	DB06262	Parkinson Disease	C0030567		Approved			1		DOID:14330	Parkinson's disease
+Betaxolol	DB00195	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Travoprost	DB00287	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Timolol	DB00373	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Brimonidine	DB00484	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Carteolol	DB00521	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Latanoprost	DB00654	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Mannitol	DB00742	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Dorzolamide	DB00869	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Bimatoprost	DB00905	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Pilocarpine	DB01085	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Brinzolamide	DB01194	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Levobunolol	DB01210	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Metipranolol	DB01214	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Paclitaxel	DB01229	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Unoprostone	DB06826	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Tafluprost	DB08819	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Levobetaxolol	DB09351	Ocular Hypertension	C0028840		Approved			1		DOID:1686	glaucoma
+Caffeine	DB00201	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Eletriptan	DB00216	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Zolmitriptan	DB00315	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Acetaminophen	DB00316	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Dihydroergotamine	DB00320	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Lisuride	DB00589	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Sumatriptan	DB00669	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Ergotamine	DB00696	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Naproxen	DB00788	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Almotriptan	DB00918	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Salicylic acid	DB00936	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Acetylsalicylic acid	DB00945	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Naratriptan	DB00952	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Rizatriptan	DB00953	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Frovatriptan	DB00998	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Phenobarbital	DB01174	Migraine Disorders	C0149931		Approved			1		DOID:6364	migraine
+Pyrimethamine	DB00205	Malaria	C0024530		Approved			1		DOID:12365	malaria
+Chloroquine	DB00608	Malaria	C0024530	NCT00442403	Suspended	Phase 3	At the end of the year 2002, Cameroon switched from chloroquine to amodiaquine as first-line    therapy for of uncomplicated malaria.	0	True	DOID:12365	malaria
+Clindamycin	DB01190	Malaria	C0024530	NCT01002183	Withdrawn	Phase 2	Drug combination is no longer pursued	0	True	DOID:12365	malaria
+Mefloquine	DB00358	Malaria	C0024530	NCT01615822	Terminated	Phase 1	Decision taken to halt progression of mefloquine as a potential partner for OZ439 as a single    dose cure due to low probability of success	0	True	DOID:12365	malaria
+Diflorasone	DB00223	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Alclometasone	DB00240	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Amcinonide	DB00288	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Betamethasone	DB00443	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Desoximetasone	DB00547	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Hydroxyzine	DB00557	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Fluticasone Propionate	DB00588	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Fluocinolone Acetonide	DB00591	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Triamcinolone	DB00620	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Flumethasone	DB00663	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Hydrocortisone	DB00741	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Flurandrenolide	DB00846	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Prednisolone	DB00860	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Methylprednisolone	DB00959	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Prednicarbate	DB01130	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Dexamethasone	DB01234	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Ammonium lactate	DB06768	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Halcinonide	DB06786	Dermatitis, Atopic	C0011615		Approved			1		DOID:3310	atopic dermatitis
+Cladribine	DB00242	Hairy Cell Leukemia	C0023443		Approved			1		DOID:2531	hematologic cancer
+Pentostatin	DB00552	Hairy Cell Leukemia	C0023443		Approved			1		DOID:2531	hematologic cancer
+Ziprasidone	DB00246	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Olanzapine	DB00334	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Carbamazepine	DB00564	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Risperidone	DB00734	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Aripiprazole	DB01238	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Cariprazine	DB06016	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Asenapine	DB06216	Mixed bipolar I disorder	C0236780		Approved			1		DOID:3312	bipolar disorder
+Dapsone	DB00250	Leprosy	C0023343		Approved			1		DOID:1024	leprosy
+Clofazimine	DB00845	Leprosy	C0023343		Approved			1		DOID:1024	leprosy
+Phenytoin	DB00252	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Pentobarbital	DB00312	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Valproic Acid	DB00313	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Trimethadione	DB00347	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Secobarbital	DB00418	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Lamotrigine	DB00555	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Carbamazepine	DB00564	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Thiopental	DB00599	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Paramethadione	DB00617	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Primidone	DB00794	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Phensuximide	DB00832	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Methylphenobarbital	DB00849	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Felbamate	DB00949	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Phenacemide	DB01121	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Phenobarbital	DB01174	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Fosphenytoin	DB01320	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Amobarbital	DB01351	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Methsuximide	DB05246	Epilepsy	C0014544		Approved			1		DOID:1826	epilepsy syndrome
+Topiramate	DB00273	Epilepsy	C0014544	NCT00563459	Terminated	Phase 3	Carisbamate partial onset seizures studies lacked consistent efficacy data so trials in this    indication were terminated.	0	True	DOID:1826	epilepsy syndrome
+Piracetam	DB09210	Epilepsy	C0014544	NCT00563459	Terminated	Phase 3	Carisbamate partial onset seizures studies lacked consistent efficacy data so trials in this    indication were terminated.	0	True	DOID:1826	epilepsy syndrome
+Zonisamide	DB00909	Epilepsy	C0014544	NCT00693017	Terminated	Phase 3	Sponsor's decision	0	True	DOID:1826	epilepsy syndrome
+Zonisamide	DB00909	Epilepsy	C0014544	NCT00692003	Terminated	Phase 3	Sponsor's decision	0	True	DOID:1826	epilepsy syndrome
+Ezogabine	DB04953	Epilepsy	C0014544	NCT01494584	Terminated	Phase 2	Terminated after placing the study on hold at the request of the FDA	0	True	DOID:1826	epilepsy syndrome
+Ezogabine	DB04953	Epilepsy	C0014544	NCT01648101	Terminated	Phase 3	Registration of the medicine is no longer being pursued in South Korea, Taiwan or Vietnam	0	True	DOID:1826	epilepsy syndrome
+Ezogabine	DB04953	Epilepsy	C0014544	NCT01668654	Terminated	Phase 3	FDA placed a clinical hold on the Pediatric Program requiring retigabine discontinuation in    subjects; early termination allows for timely reporting of results.	0	True	DOID:1826	epilepsy syndrome
+Eslicarbazepine acetate	DB09119	Epilepsy	C0014544	NCT02172755	Terminated	Phase 1	occurrence of a serious adverse event	0	True	DOID:1826	epilepsy syndrome
+Phenytoin	DB00252	Epilepsies, Partial	C0014547		Approved			1		DOID:1826	epilepsy syndrome
+Carbamazepine	DB00564	Epilepsies, Partial	C0014547		Approved			1		DOID:1826	epilepsy syndrome
+Oxcarbazepine	DB00776	Epilepsies, Partial	C0014547		Approved			1		DOID:1826	epilepsy syndrome
+Primidone	DB00794	Epilepsies, Partial	C0014547		Approved			1		DOID:1826	epilepsy syndrome
+Phenytoin	DB00252	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Topiramate	DB00273	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Carbamazepine	DB00564	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Ethotoin	DB00754	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Primidone	DB00794	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Methylphenobarbital	DB00849	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Phenobarbital	DB01174	Tonic-Clonic Epilepsy	C0014549		Approved			1		DOID:1826	epilepsy syndrome
+Anagrelide	DB00261	Thrombocythemia, Essential	C0040028		Approved			1		DOID:2531	hematologic cancer
+Carmustine	DB00262	Malignant neoplasm of brain	C0153633		Approved			1		DOID:1319	brain cancer
+Carmustine	DB00262	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Bleomycin	DB00290	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Chlorambucil	DB00291	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Betamethasone	DB00443	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Vincristine	DB00541	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Vinblastine	DB00570	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Triamcinolone	DB00620	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Prednisone	DB00635	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Hydrocortisone	DB00741	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Dacarbazine	DB00851	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Prednisolone	DB00860	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Mechlorethamine	DB00888	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Methylprednisolone	DB00959	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Doxorubicin	DB00997	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Procarbazine	DB01168	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Lomustine	DB01206	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Dexamethasone	DB01234	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Cortisone acetate	DB01380	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Thiotepa	DB04572	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Brentuximab vedotin	DB08870	Hodgkin Disease	C0019829		Approved			1		DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	Hodgkin Disease	C0019829	NCT00626626	Terminated	Phase 1/Phase 2	Investigator decision	0	True	DOID:2531	hematologic cancer
+Clofarabine	DB00631	Hodgkin Disease	C0019829	NCT00626626	Terminated	Phase 1/Phase 2	Investigator decision	0	True	DOID:2531	hematologic cancer
+Carmustine	DB00262	Malignant Glioma	C0555198		Approved			1		DOID:3070	malignant glioma
+Carmustine	DB00262	Glioblastoma multiforme of brain	C0349543		Approved			1		DOID:1319	brain cancer
+Temozolomide	DB00853	Glioblastoma multiforme of brain	C0349543		Approved			1		DOID:1319	brain cancer
+Sulfisoxazole	DB00263	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Quinine	DB00468	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Chloroquine	DB00608	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Atovaquone	DB01117	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Proguanil	DB01131	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Halofantrine	DB01218	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Hydroxychloroquine	DB01611	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Lumefantrine	DB06708	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Artesunate	DB09274	Malaria, Falciparum	C0024535		Approved			1		DOID:12365	malaria
+Metoprolol	DB00264	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Dicoumarol	DB00266	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Atenolol	DB00335	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Lisinopril	DB00722	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Salicylic acid	DB00936	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Acetylsalicylic acid	DB00945	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Phenprocoumon	DB00946	Myocardial Infarction	C0027051		Approved			1		DOID:3393	coronary artery disease
+Fondaparinux sodium	DB00569	Myocardial Infarction	C0027051	NCT00060554	Withdrawn	Phase 2	Drug sold to Sanofi-Aventis who sold it to GSK; OBS no longer owns study and does not have    data.	0	True	DOID:3393	coronary artery disease
+Ticlopidine	DB00208	Myocardial Infarction	C0027051	NCT00557921	Terminated	Phase 3	Terminated by Sponsor	0	True	DOID:3393	coronary artery disease
+Clopidogrel	DB00758	Myocardial Infarction	C0027051	NCT00557921	Terminated	Phase 3	Terminated by Sponsor	0	True	DOID:3393	coronary artery disease
+Ropinirole	DB00268	Restless Legs Syndrome	C0035258		Approved			1		DOID:0050425	restless legs syndrome
+Pramipexole	DB00413	Restless Legs Syndrome	C0035258		Approved			1		DOID:0050425	restless legs syndrome
+Gabapentin	DB00996	Restless Legs Syndrome	C0035258		Approved			1		DOID:0050425	restless legs syndrome
+Rotigotine	DB05271	Restless Legs Syndrome	C0035258		Approved			1		DOID:0050425	restless legs syndrome
+gabapentin enacarbil	DB08872	Restless Legs Syndrome	C0035258		Approved			1		DOID:0050425	restless legs syndrome
+Theophylline	DB00277	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Betamethasone	DB00443	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Triamcinolone	DB00620	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Hydrocortisone	DB00741	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Prednisolone	DB00860	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Methylprednisolone	DB00959	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Aminophylline	DB01223	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Cortisone acetate	DB01380	Status Asthmaticus	C0038218		Approved			1		DOID:2841	asthma
+Liothyronine	DB00279	Malignant neoplasm of thyroid	C0007115		Approved			1		DOID:1781	thyroid cancer
+Levothyroxine	DB00451	Malignant neoplasm of thyroid	C0007115		Approved			1		DOID:1781	thyroid cancer
+Doxorubicin	DB00997	Malignant neoplasm of thyroid	C0007115		Approved			1		DOID:1781	thyroid cancer
+Liothyronine	DB00279	Myxedema	C0027145		Approved			1		DOID:1459	hypothyroidism
+Levothyroxine	DB00451	Myxedema	C0027145		Approved			1		DOID:1459	hypothyroidism
+Liothyronine	DB00279	Congenital Hypothyroidism	C0010308		Approved			1		DOID:1459	hypothyroidism
+Levothyroxine	DB00451	Congenital Hypothyroidism	C0010308		Approved			1		DOID:1459	hypothyroidism
+Bleomycin	DB00290	Malignant tumor of cervix	C0007847		Approved			1		DOID:4362	cervical cancer
+Topotecan	DB01030	Malignant tumor of cervix	C0007847		Approved			1		DOID:4362	cervical cancer
+Bleomycin	DB00290	Testicular Germ Cell Tumor	C1336708		Approved			1		DOID:2998	testicular cancer
+Cisplatin	DB00515	Testicular Germ Cell Tumor	C1336708		Approved			1		DOID:2998	testicular cancer
+Ifosfamide	DB01181	Testicular Germ Cell Tumor	C1336708		Approved			1		DOID:2998	testicular cancer
+Mesna	DB09110	Testicular Germ Cell Tumor	C1336708		Approved			1		DOID:2998	testicular cancer
+Bleomycin	DB00290	Malignant neoplasm of penis	C0153601		Approved			1		DOID:11615	penile cancer
+Mitomycin	DB00305	Adenocarcinoma of pancreas	C0281361		Approved			1		DOID:1793	pancreatic cancer
+Gemcitabine	DB00441	Adenocarcinoma of pancreas	C0281361		Approved			1		DOID:1793	pancreatic cancer
+Erlotinib	DB00530	Adenocarcinoma of pancreas	C0281361		Approved			1		DOID:1793	pancreatic cancer
+Fluorouracil	DB00544	Adenocarcinoma of pancreas	C0281361		Approved			1		DOID:1793	pancreatic cancer
+Vindesine	DB00309	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Uracil mustard	DB00791	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Mechlorethamine	DB00888	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Hydroxyurea	DB01005	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Homoharringtonine	DB04865	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Ponatinib	DB08901	Myeloid Leukemia, Chronic	C0023473		Approved			1		DOID:2531	hematologic cancer
+Vindesine	DB00309	melanoma	C0025202		Approved			1		DOID:1909	melanoma
+Hydroxyurea	DB01005	melanoma	C0025202		Approved			1		DOID:1909	melanoma
+Lovastatin	DB00227	melanoma	C0025202	NCT00963664	Withdrawn	Phase 2	Modifications will be necessary before full IRB approval will be secured.	0	True	DOID:1909	melanoma
+Imiquimod	DB00724	melanoma	C0025202	NCT01543464	Terminated	Phase 2	Diminished rectruitment	0	True	DOID:1909	melanoma
+Temozolomide	DB00853	melanoma	C0025202	NCT01543464	Terminated	Phase 2	Diminished rectruitment	0	True	DOID:1909	melanoma
+Gefitinib	DB00317	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Vinorelbine	DB00361	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Gemcitabine	DB00441	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Erlotinib	DB00530	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Pemetrexed	DB00642	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Porfimer	DB00707	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Paclitaxel	DB01229	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Docetaxel	DB01248	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Ramucirumab	DB05578	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Nivolumab	DB09035	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Pembrolizumab	DB09037	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Nintedanib	DB09079	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Necitumumab	DB09559	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Alectinib	DB11363	Non-Small Cell Lung Carcinoma	C0007131		Approved			1		DOID:1324	lung cancer
+Sorafenib	DB00398	Non-Small Cell Lung Carcinoma	C0007131	NCT00417248	Terminated	Phase 1/Phase 2	Negative sorafenib results from ESCAPE trial and safety concerns of regimen	0	True	DOID:1324	lung cancer
+Cisplatin	DB00515	Non-Small Cell Lung Carcinoma	C0007131	NCT00417248	Terminated	Phase 1/Phase 2	Negative sorafenib results from ESCAPE trial and safety concerns of regimen	0	True	DOID:1324	lung cancer
+Etoposide	DB00773	Non-Small Cell Lung Carcinoma	C0007131	NCT00417248	Terminated	Phase 1/Phase 2	Negative sorafenib results from ESCAPE trial and safety concerns of regimen	0	True	DOID:1324	lung cancer
+Bevacizumab	DB00112	Non-Small Cell Lung Carcinoma	C0007131	NCT00404703	Terminated	Phase 2	Primary (safety) endpoint reached	0	True	DOID:1324	lung cancer
+Bevacizumab	DB00112	Non-Small Cell Lung Carcinoma	C0007131	NCT00434226	Terminated	Phase 2	Based on data collected, the combination appeared to be poorly tolearated.	0	True	DOID:1324	lung cancer
+Carboplatin	DB00958	Non-Small Cell Lung Carcinoma	C0007131	NCT00434226	Terminated	Phase 2	Based on data collected, the combination appeared to be poorly tolearated.	0	True	DOID:1324	lung cancer
+Sunitinib	DB01268	Non-Small Cell Lung Carcinoma	C0007131	NCT00434226	Terminated	Phase 2	Based on data collected, the combination appeared to be poorly tolearated.	0	True	DOID:1324	lung cancer
+Carboplatin	DB00958	Non-Small Cell Lung Carcinoma	C0007131	NCT00460317	Terminated	Phase 3	Amgen discontinued the development of AMG706 because 20050201 did not meet its primary    objective.	0	True	DOID:1324	lung cancer
+Dasatinib	DB01254	Non-Small Cell Lung Carcinoma	C0007131	NCT00826449	Terminated	Phase 1/Phase 2	Closed early due to determination of futility/efficacy.	0	True	DOID:1324	lung cancer
+Pegfilgrastim	DB00019	Non-Small Cell Lung Carcinoma	C0007131	NCT00862134	Terminated	Phase 2	Interim analysis indicated low probability of clinically significant result	0	True	DOID:1324	lung cancer
+Cyclophosphamide	DB00531	Non-Small Cell Lung Carcinoma	C0007131	NCT01015443	Terminated	Phase 3	The study is terminated prematurely as the sponsor decided to discontinue program with    Tecemotide in NSCLC.	0	True	DOID:1324	lung cancer
+Carboplatin	DB00958	Non-Small Cell Lung Carcinoma	C0007131	NCT01184287	Withdrawn	Phase 2	Program discontinued	0	True	DOID:1324	lung cancer
+Floxuridine	DB00322	Malignant neoplasm of liver	C0345904		Approved			1		DOID:3571	liver cancer
+Nitroprusside	DB00325	Malignant essential hypertension	C0024588		Approved			1		DOID:10763	hypertension
+Fenoldopam	DB00800	Malignant essential hypertension	C0024588		Approved			1		DOID:10763	hypertension
+Indomethacin	DB00328	Gout	C0018099		Approved			1		DOID:13189	gout
+Allopurinol	DB00437	Gout	C0018099		Approved			1		DOID:13189	gout
+Naproxen	DB00788	Gout	C0018099		Approved			1		DOID:13189	gout
+Colchicine	DB01394	Gout	C0018099		Approved			1		DOID:13189	gout
+Ipratropium bromide	DB00332	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Glycopyrronium	DB00986	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Arformoterol	DB01274	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Almitrine	DB01430	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Aclidinium	DB08897	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Umeclidinium	DB09076	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Olodaterol	DB09080	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Vilanterol	DB09082	Chronic Obstructive Airway Disease	C0024117		Approved			1		DOID:3083	chronic obstructive pulmonary disease
+Olanzapine	DB00334	Depression, Bipolar	C0005587		Approved			1		DOID:3312	bipolar disorder
+Fluoxetine	DB00472	Depression, Bipolar	C0005587		Approved			1		DOID:3312	bipolar disorder
+Doxepin	DB01142	Depression, Bipolar	C0005587		Approved			1		DOID:3312	bipolar disorder
+Quetiapine	DB01224	Depression, Bipolar	C0005587		Approved			1		DOID:3312	bipolar disorder
+Lurasidone	DB08815	Depression, Bipolar	C0005587		Approved			1		DOID:3312	bipolar disorder
+Megestrol acetate	DB00351	Endometrial Carcinoma	C0476089		Approved			1		DOID:363	uterine cancer
+Progesterone	DB00396	Endometrial Carcinoma	C0476089		Approved			1		DOID:363	uterine cancer
+Medroxyprogesterone acetate	DB00603	Endometrial Carcinoma	C0476089		Approved			1		DOID:363	uterine cancer
+Mefloquine	DB00358	Malaria, Vivax	C0024537		Approved			1		DOID:12365	malaria
+Chloroquine	DB00608	Malaria, Vivax	C0024537		Approved			1		DOID:12365	malaria
+Primaquine	DB01087	Malaria, Vivax	C0024537		Approved			1		DOID:12365	malaria
+Hydroxychloroquine	DB01611	Malaria, Vivax	C0024537		Approved			1		DOID:12365	malaria
+Valrubicin	DB00385	Malignant neoplasm of urinary bladder	C0005684		Approved			1		DOID:11054	urinary bladder cancer
+Thiotepa	DB04572	Malignant neoplasm of urinary bladder	C0005684		Approved			1		DOID:11054	urinary bladder cancer
+Carbimazole	DB00389	Graves Disease	C0018213		Approved			1		DOID:12361	Graves' disease
+Sorafenib	DB00398	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Sirolimus	DB00877	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Sunitinib	DB01268	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Everolimus	DB01590	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Temsirolimus	DB06287	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Pazopanib	DB06589	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Axitinib	DB06626	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Triethylenetetramine	DB06824	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Cabozantinib	DB08875	Renal Cell Carcinoma	C0007134		Approved			1		DOID:263	kidney cancer
+Bevacizumab	DB00112	Renal Cell Carcinoma	C0007134	NCT00556205	Withdrawn	Phase 2	Toxicity of combination from other trials	0	True	DOID:263	kidney cancer
+Lenalidomide	DB00480	Renal Cell Carcinoma	C0007134	NCT00975806	Terminated	Phase 1/Phase 2	MTD determined sub-optimal as efficacious treatment for renal cell carcinoma.	0	True	DOID:263	kidney cancer
+Thalidomide	DB01041	Renal Cell Carcinoma	C0007134	NCT00975806	Terminated	Phase 1/Phase 2	MTD determined sub-optimal as efficacious treatment for renal cell carcinoma.	0	True	DOID:263	kidney cancer
+Loxapine	DB00408	Bipolar Disorder	C0005586		Approved			1		DOID:3312	bipolar disorder
+Quetiapine	DB01224	Bipolar Disorder	C0005586		Approved			1		DOID:3312	bipolar disorder
+Lithium	DB01356	Bipolar Disorder	C0005586		Approved			1		DOID:3312	bipolar disorder
+Ziprasidone	DB00246	Bipolar Disorder	C0005586	NCT01113541	Terminated	Phase 3	See termination reason in detailed description.	0	True	DOID:3312	bipolar disorder
+Ketamine	DB01221	Bipolar Disorder	C0005586	NCT01504659	Suspended	Phase 2/Phase 3	Protocol Revisions	0	True	DOID:3312	bipolar disorder
+Nitric Oxide	DB00435	Persistent Fetal Circulation Syndrome	C0031190		Approved			1		DOID:10763	hypertension
+Tolazoline	DB00797	Persistent Fetal Circulation Syndrome	C0031190		Approved			1		DOID:10763	hypertension
+Nitrogen	DB09152	Persistent Fetal Circulation Syndrome	C0031190		Approved			1		DOID:10763	hypertension
+Sildenafil	DB00203	Persistent Fetal Circulation Syndrome	C0031190	NCT01069861	Terminated	Phase 2	See termination reason in detailed description.	0	True	DOID:10763	hypertension
+Bosentan	DB00559	Persistent Fetal Circulation Syndrome	C0031190	NCT01389856	Terminated	Phase 3	To be compliant with the timelines as agreed with Paediatric Committee (PC) within the    Paediatric Investigational Plan	0	True	DOID:10763	hypertension
+Nitric Oxide	DB00435	Pulmonary Hypertension	C0020542		Approved			1		DOID:10763	hypertension
+Bosentan	DB00559	Pulmonary Hypertension	C0020542		Approved			1		DOID:10763	hypertension
+Tadalafil	DB00820	Pulmonary Hypertension	C0020542		Approved			1		DOID:10763	hypertension
+Epoprostenol	DB01240	Pulmonary Hypertension	C0020542		Approved			1		DOID:10763	hypertension
+Allopurinol	DB00437	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Betamethasone	DB00443	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Sulindac	DB00605	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Triamcinolone	DB00620	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Prednisone	DB00635	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Hydrocortisone	DB00741	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Prednisolone	DB00860	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Methylprednisolone	DB00959	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Probenecid	DB01032	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Dexamethasone	DB01234	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Cortisone acetate	DB01380	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Canakinumab	DB06168	Arthritis, Gouty	C0003868		Approved			1		DOID:13189	gout
+Gemcitabine	DB00441	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Altretamine	DB00488	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Cisplatin	DB00515	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Carboplatin	DB00958	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Doxorubicin	DB00997	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Hydroxyurea	DB01005	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Topotecan	DB01030	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Melphalan	DB01042	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Paclitaxel	DB01229	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Thiotepa	DB04572	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Trabectedin	DB05109	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Olaparib	DB09074	Malignant neoplasm of ovary	C1140680		Approved			1		DOID:2394	ovarian cancer
+Celecoxib	DB00482	Malignant neoplasm of ovary	C1140680	NCT01175772	Terminated	Phase 2	Due to change in the national policy of medications	0	True	DOID:2394	ovarian cancer
+Methotrexate	DB00563	Malignant neoplasm of ovary	C1140680	NCT01175772	Terminated	Phase 2	Due to change in the national policy of medications	0	True	DOID:2394	ovarian cancer
+Betamethasone	DB00443	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Chloroquine	DB00608	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Triamcinolone	DB00620	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Prednisone	DB00635	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Hydrocortisone	DB00741	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Prednisolone	DB00860	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Methylprednisolone	DB00959	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Dexamethasone	DB01234	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Cortisone acetate	DB01380	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Hydroxychloroquine	DB01611	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Belimumab	DB08879	Lupus Erythematosus, Systemic	C0024141		Approved			1		DOID:9074	systemic lupus erythematosus
+Mycophenolate mofetil	DB00688	Lupus Erythematosus, Systemic	C0024141	NCT00430677	Terminated	Phase 2/Phase 3	Terminated due to failure to meet the primary efficacy endpoint in the Short-term Period	0	True	DOID:9074	systemic lupus erythematosus
+Mycophenolic acid	DB01024	Lupus Erythematosus, Systemic	C0024141	NCT00430677	Terminated	Phase 2/Phase 3	Terminated due to failure to meet the primary efficacy endpoint in the Short-term Period	0	True	DOID:9074	systemic lupus erythematosus
+Abatacept	DB01281	Lupus Erythematosus, Systemic	C0024141	NCT00430677	Terminated	Phase 2/Phase 3	Terminated due to failure to meet the primary efficacy endpoint in the Short-term Period	0	True	DOID:9074	systemic lupus erythematosus
+Alemtuzumab	DB00087	Lupus Erythematosus, Systemic	C0024141	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:9074	systemic lupus erythematosus
+Busulfan	DB01008	Lupus Erythematosus, Systemic	C0024141	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:9074	systemic lupus erythematosus
+Fludarabine	DB01073	Lupus Erythematosus, Systemic	C0024141	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:9074	systemic lupus erythematosus
+Betamethasone	DB00443	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Methotrexate	DB00563	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Vinblastine	DB00570	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Triamcinolone	DB00620	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Prednisone	DB00635	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Hydrocortisone	DB00741	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Prednisolone	DB00860	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Mechlorethamine	DB00888	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Methylprednisolone	DB00959	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Dexamethasone	DB01234	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Cortisone acetate	DB01380	Mycosis Fungoides	C0026948		Approved			1		DOID:2531	hematologic cancer
+Betamethasone	DB00443	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Triamcinolone	DB00620	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Prednisone	DB00635	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Hydrocortisone	DB00741	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Drostanolone	DB00858	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Prednisolone	DB00860	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Methylprednisolone	DB00959	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Dexamethasone	DB01234	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Cortisone acetate	DB01380	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Oxymetholone	DB06412	Anemia, Diamond-Blackfan	C1260899		Approved			1		DOID:2355	anemia
+Betamethasone	DB00443	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Acitretin	DB00459	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Methotrexate	DB00563	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Triamcinolone	DB00620	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Prednisone	DB00635	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Hydrocortisone	DB00741	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Tazarotene	DB00799	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Prednisolone	DB00860	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Methylprednisolone	DB00959	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Dexamethasone	DB01234	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Cortisone acetate	DB01380	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Ustekinumab	DB05679	Psoriasis	C0033860		Approved			1		DOID:8893	psoriasis
+Erlotinib	DB00530	Psoriasis	C0033860	NCT01006096	Withdrawn	Phase 2	IND not obtained	0	True	DOID:8893	psoriasis
+Niacin	DB00627	Psoriasis	C0033860	NCT01368887	Suspended	Phase 2	Sponsor seeking additional financial support before starting the study	0	True	DOID:8893	psoriasis
+Calcipotriol	DB02300	Psoriasis	C0033860	NCT01368887	Suspended	Phase 2	Sponsor seeking additional financial support before starting the study	0	True	DOID:8893	psoriasis
+Nicotinamide	DB02701	Psoriasis	C0033860	NCT01368887	Suspended	Phase 2	Sponsor seeking additional financial support before starting the study	0	True	DOID:8893	psoriasis
+Epirubicin	DB00445	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Doxorubicin	DB00997	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Paclitaxel	DB01229	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Docetaxel	DB01248	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Everolimus	DB01590	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Ixabepilone	DB04845	Breast Carcinoma	C0678222		Approved			1		DOID:1612	breast cancer
+Montelukast	DB00471	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Fluticasone Propionate	DB00588	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Zileuton	DB00744	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Mometasone	DB00764	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Salmeterol	DB00938	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Formoterol	DB00983	Allergic asthma	C0155877		Approved			1		DOID:2841	asthma
+Montelukast	DB00471	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Fluticasone Propionate	DB00588	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Zileuton	DB00744	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Mometasone	DB00764	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Salmeterol	DB00938	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Formoterol	DB00983	Intrinsic asthma	C0155880		Approved			1		DOID:2841	asthma
+Flutamide	DB00499	Prostatic Neoplasms	C0033578		Approved			1		DOID:10283	prostate cancer
+Estramustine	DB01196	Prostatic Neoplasms	C0033578		Approved			1		DOID:10283	prostate cancer
+Haloperidol	DB00502	Gilles de la Tourette syndrome	C0040517		Approved			1		DOID:11119	Gilles de la Tourette syndrome
+Pimozide	DB01100	Gilles de la Tourette syndrome	C0040517		Approved			1		DOID:11119	Gilles de la Tourette syndrome
+Cyclophosphamide	DB00531	Lymphoma	C0024299		Approved			1		DOID:2531	hematologic cancer
+Pegfilgrastim	DB00019	Lymphoma	C0024299	NCT01016795	Terminated	Phase 2	Study closed Nov 2000 by Amgen, who stopped drug delivery	0	True	DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	Neuroblastoma	C0027819		Approved			1		DOID:1192	peripheral nervous system neoplasm
+Vincristine	DB00541	Neuroblastoma	C0027819		Approved			1		DOID:1192	peripheral nervous system neoplasm
+Doxorubicin	DB00997	Neuroblastoma	C0027819		Approved			1		DOID:1192	peripheral nervous system neoplasm
+Dinutuximab	DB09077	Neuroblastoma	C0027819		Approved			1		DOID:1192	peripheral nervous system neoplasm
+Topotecan	DB01030	Neuroblastoma	C0027819	NCT00389766	Withdrawn	Phase 2	Withdrawn because protocol has been discontinued. It was never opened.	0	True	DOID:1192	peripheral nervous system neoplasm
+Erlotinib	DB00530	Neuroblastoma	C0027819	NCT00947167	Terminated	Phase 2	Extreme toxicity of Pertuzumab and Erlotinib combination	0	True	DOID:1192	peripheral nervous system neoplasm
+Pertuzumab	DB06366	Neuroblastoma	C0027819	NCT00947167	Terminated	Phase 2	Extreme toxicity of Pertuzumab and Erlotinib combination	0	True	DOID:1192	peripheral nervous system neoplasm
+Isotretinoin	DB00982	Neuroblastoma	C0027819	NCT01916187	Withdrawn	Phase 1	drug company withdrww support following a re-examination of the benefit-risk assessment for    the investigational use of imetelstat in this population	0	True	DOID:1192	peripheral nervous system neoplasm
+Cyclophosphamide	DB00531	Retinoblastoma	C0035335		Approved			1		DOID:2174	ocular cancer
+Busulfan	DB01008	Retinoblastoma	C0035335	NCT00623077	Terminated	Phase 1	Replaced by another study	0	True	DOID:2174	ocular cancer
+Ifosfamide	DB01181	Retinoblastoma	C0035335	NCT00623077	Terminated	Phase 1	Replaced by another study	0	True	DOID:2174	ocular cancer
+Vincristine	DB00541	Rhabdomyosarcoma	C0035412		Approved			1		DOID:4045	muscle cancer
+Dactinomycin	DB00970	Rhabdomyosarcoma	C0035412		Approved			1		DOID:4045	muscle cancer
+Vincristine	DB00541	Nephroblastoma	C0027708		Approved			1		DOID:263	kidney cancer
+Dactinomycin	DB00970	Nephroblastoma	C0027708		Approved			1		DOID:263	kidney cancer
+Doxorubicin	DB00997	Nephroblastoma	C0027708		Approved			1		DOID:263	kidney cancer
+Vincristine	DB00541	Burkitt Lymphoma	C0006413		Approved			1		DOID:2531	hematologic cancer
+Methotrexate	DB00563	Burkitt Lymphoma	C0006413		Approved			1		DOID:2531	hematologic cancer
+Doxorubicin	DB00997	Burkitt Lymphoma	C0006413		Approved			1		DOID:2531	hematologic cancer
+Dexamethasone	DB01234	Burkitt Lymphoma	C0006413		Approved			1		DOID:2531	hematologic cancer
+Fluorouracil	DB00544	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Capecitabine	DB01101	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Docetaxel	DB01248	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Oteracil	DB03209	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Tegafur	DB09256	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Gimeracil	DB09257	Malignant neoplasm of stomach	C0024623		Approved			1		DOID:10534	stomach cancer
+Citalopram	DB00215	Malignant neoplasm of stomach	C0024623	NCT00387348	Terminated	Phase 3	DSMB stopped study because placebo arm had more adverse events	0	True	DOID:10534	stomach cancer
+Cisplatin	DB00515	Malignant neoplasm of stomach	C0024623	NCT00568971	Terminated	Phase 2	The study has finished.	0	True	DOID:10534	stomach cancer
+Aldesleukin	DB00041	Malignant neoplasm of stomach	C0024623	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:10534	stomach cancer
+Vidarabine	DB00194	Malignant neoplasm of stomach	C0024623	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:10534	stomach cancer
+Cyclophosphamide	DB00531	Malignant neoplasm of stomach	C0024623	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:10534	stomach cancer
+Fludarabine	DB01073	Malignant neoplasm of stomach	C0024623	NCT01212887	Terminated	Phase 1	due to safety concerns and lack of efficacy	0	True	DOID:10534	stomach cancer
+Cetuximab	DB00002	Malignant neoplasm of stomach	C0024623	NCT01611506	Terminated	Phase 1/Phase 2	Outcome of EXPAND study (no benefit from adding cetuximab to the first-line chemotherapy in    advanced gastric cancer in the overall patient population)	0	True	DOID:10534	stomach cancer
+Cisplatin	DB00515	Malignant neoplasm of stomach	C0024623	NCT01611506	Terminated	Phase 1/Phase 2	Outcome of EXPAND study (no benefit from adding cetuximab to the first-line chemotherapy in    advanced gastric cancer in the overall patient population)	0	True	DOID:10534	stomach cancer
+Cisplatin	DB00515	Malignant neoplasm of stomach	C0024623	NCT02137343	Terminated	Phase 3	All Amgen sponsored AMG102 clinical studies were terminated following a pre-planned Data    Monitoring Committee safety review of study 20070622.	0	True	DOID:10534	stomach cancer
+Methoxsalen	DB00553	Vitiligo	C0042900		Approved			1		DOID:12306	vitiligo
+Trioxsalen	DB04571	Vitiligo	C0042900		Approved			1		DOID:12306	vitiligo
+Methotrexate	DB00563	Gestational Trophoblastic Neoplasms	C1135868		Approved			1		DOID:2994	germ cell cancer
+Vinblastine	DB00570	Gestational Trophoblastic Neoplasms	C1135868		Approved			1		DOID:2994	germ cell cancer
+Dactinomycin	DB00970	Gestational Trophoblastic Neoplasms	C1135868		Approved			1		DOID:2994	germ cell cancer
+Methotrexate	DB00563	Osteosarcoma of bone	C0585442		Approved			1		DOID:184	bone cancer
+Doxorubicin	DB00997	Osteosarcoma of bone	C0585442		Approved			1		DOID:184	bone cancer
+Vinblastine	DB00570	Malignant neoplasm of testis	C0153594		Approved			1		DOID:2998	testicular cancer
+Chloroquine	DB00608	Quartan malaria	C0024536		Approved			1		DOID:12365	malaria
+Hydroxychloroquine	DB01611	Quartan malaria	C0024536		Approved			1		DOID:12365	malaria
+Chloroquine	DB00608	Ovale malaria	C0152072		Approved			1		DOID:12365	malaria
+Hydroxychloroquine	DB01611	Ovale malaria	C0152072		Approved			1		DOID:12365	malaria
+Triamcinolone	DB00620	Alopecia Areata	C0002171		Approved			1		DOID:986	alopecia areata
+Leucovorin	DB00650	Anemia, Megaloblastic	C0002888		Approved			1		DOID:2355	anemia
+Levoleucovorin	DB11596	Anemia, Megaloblastic	C0002888		Approved			1		DOID:2355	anemia
+Galantamine	DB00674	Alzheimer's Disease	C0002395		Approved			1		DOID:10652	Alzheimer's disease
+Donepezil	DB00843	Alzheimer's Disease	C0002395		Approved			1		DOID:10652	Alzheimer's disease
+Rivastigmine	DB00989	Alzheimer's Disease	C0002395		Approved			1		DOID:10652	Alzheimer's disease
+Tamoxifen	DB00675	Invasive Ductal Breast Carcinoma	C1134719		Approved			1		DOID:1612	breast cancer
+Daunorubicin	DB00694	Acute monocytic leukemia	C0023465		Approved			1		DOID:2531	hematologic cancer
+Methazolamide	DB00703	Angle Closure Glaucoma	C0017605		Approved			1		DOID:1686	glaucoma
+Acetazolamide	DB00819	Angle Closure Glaucoma	C0017605		Approved			1		DOID:1686	glaucoma
+Diclofenamide	DB01144	Angle Closure Glaucoma	C0017605		Approved			1		DOID:1686	glaucoma
+Risperidone	DB00734	Autistic Disorder	C0004352		Approved			1		DOID:12849	autistic disorder
+Aripiprazole	DB01238	Autistic Disorder	C0004352		Approved			1		DOID:12849	autistic disorder
+Riluzole	DB00740	Amyotrophic Lateral Sclerosis	C0002736		Approved			1		DOID:332	amyotrophic lateral sclerosis
+Pioglitazone	DB01132	Amyotrophic Lateral Sclerosis	C0002736	NCT00690118	Terminated	Phase 2	The interim analysis showed no tendency in favour of the verum group. Therefore it was decided    to stop the study prematurely.	0	True	DOID:332	amyotrophic lateral sclerosis
+Etoposide	DB00773	Small cell carcinoma of lung	C0149925		Approved			1		DOID:1324	lung cancer
+Doxorubicin	DB00997	Small cell carcinoma of lung	C0149925		Approved			1		DOID:1324	lung cancer
+Topotecan	DB01030	Small cell carcinoma of lung	C0149925		Approved			1		DOID:1324	lung cancer
+Cisplatin	DB00515	Small cell carcinoma of lung	C0149925	NCT00977561	Terminated	Phase 2	See termination reason in detailed description.	0	True	DOID:1324	lung cancer
+Carboplatin	DB00958	Small cell carcinoma of lung	C0149925	NCT00977561	Terminated	Phase 2	See termination reason in detailed description.	0	True	DOID:1324	lung cancer
+Carboplatin	DB00958	Small cell carcinoma of lung	C0149925	NCT01722292	Terminated	Phase 1/Phase 2	Change in clinical strategy.	0	True	DOID:1324	lung cancer
+Temozolomide	DB00853	Anaplastic astrocytoma	C0334579		Approved			1		DOID:3070	malignant glioma
+Valproic Acid	DB00313	Anaplastic astrocytoma	C0334579	NCT01861990	Withdrawn	Phase 1	Feasibility of the trial was proven to be absent.	0	True	DOID:3070	malignant glioma
+Drostanolone	DB00858	Aplastic Anemia	C0002874		Approved			1		DOID:2355	anemia
+Oxymetholone	DB06412	Aplastic Anemia	C0002874		Approved			1		DOID:2355	anemia
+Daclizumab	DB00111	Aplastic Anemia	C0002874	NCT00001962	Terminated	Phase 2	DSMB recommended closing the study and publishing the results	0	True	DOID:2355	anemia
+Dactinomycin	DB00970	Ewings sarcoma	C0553580		Approved			1		DOID:184	bone cancer
+Minocycline	DB01017	Periodontitis	C0031099		Approved			1		DOID:824	periodontitis
+Lidocaine	DB00281	Periodontitis	C0031099	NCT01878864	Terminated	Phase 2	Too slow patient inclusion and superior effect of the injection	0	True	DOID:824	periodontitis
+Bupivacaine	DB00297	Periodontitis	C0031099	NCT01878864	Terminated	Phase 2	Too slow patient inclusion and superior effect of the injection	0	True	DOID:824	periodontitis
+Epinephrine	DB00668	Periodontitis	C0031099	NCT01878864	Terminated	Phase 2	Too slow patient inclusion and superior effect of the injection	0	True	DOID:824	periodontitis
+Echothiophate	DB01057	Glaucoma	C0017601		Approved			1		DOID:1686	glaucoma
+Bupranolol	DB08808	Glaucoma	C0017601		Approved			1		DOID:1686	glaucoma
+Echothiophate	DB01057	Esotropia	C0014877		Approved			1		DOID:9835	refractive error
+Vigabatrin	DB01080	West Syndrome	C0037769		Approved			1		DOID:1826	epilepsy syndrome
+Corticotropin	DB01285	West Syndrome	C0037769		Approved			1		DOID:1826	epilepsy syndrome
+Diazoxide	DB01119	insulinoma	C0021670		Approved			1		DOID:1793	pancreatic cancer
+Lomustine	DB01206	Brain Neoplasms	C0006118		Approved			1		DOID:1319	brain cancer
+Docetaxel	DB01248	Malignant neoplasm of prostate	C0376358		Approved			1		DOID:10283	prostate cancer
+Abiraterone	DB05812	Malignant neoplasm of prostate	C0376358		Approved			1		DOID:10283	prostate cancer
+Enzalutamide	DB08899	Malignant neoplasm of prostate	C0376358		Approved			1		DOID:10283	prostate cancer
+Radium Ra 223 Dichloride	DB08913	Malignant neoplasm of prostate	C0376358		Approved			1		DOID:10283	prostate cancer
+Ursodeoxycholic acid	DB01586	Primary biliary cirrhosis	C0008312		Approved			1		DOID:12236	primary biliary cirrhosis
+Iron	DB01592	Anemia of prematurity	C0158996		Approved			1		DOID:2355	anemia
+Sodium ferric gluconate complex	DB09517	Anemia of prematurity	C0158996		Approved			1		DOID:2355	anemia
+Trabectedin	DB05109	leiomyosarcoma	C0023269		Approved			1		DOID:4045	muscle cancer
+Ramucirumab	DB05578	Gastric Adenocarcinoma	C0278701		Approved			1		DOID:10534	stomach cancer
+Vismodegib	DB08828	Basal cell carcinoma	C0007117		Approved			1		DOID:4159	skin cancer
+Sonidegib	DB09143	Basal cell carcinoma	C0007117		Approved			1		DOID:4159	skin cancer
+Ulipristal	DB08867	Uterine Fibroids	C0042133		Approved			1		DOID:13223	uterine fibroid
+Cabozantinib	DB08875	Medullary carcinoma of thyroid	C0238462		Approved			1		DOID:1781	thyroid cancer
+Ruxolitinib	DB08877	Myelofibrosis	C0026987		Approved			1		DOID:2531	hematologic cancer
+Teriparatide	DB06285	Myelofibrosis	C0026987	NCT00393380	Terminated	Phase 2	Study stopped because of toxicity concerns.	0	True	DOID:2531	hematologic cancer
+Nivolumab	DB09035	Squamous cell carcinoma of lung	C0149782		Approved			1		DOID:1324	lung cancer
+Olaparib	DB09074	Epithelial tumor of ovary	C0341823		Approved			1		DOID:2394	ovarian cancer
+Lenvatinib	DB09078	Follicular thyroid carcinoma	C0206682		Approved			1		DOID:1781	thyroid cancer
+Lenvatinib	DB09078	Papillary thyroid carcinoma	C0238463		Approved			1		DOID:1781	thyroid cancer
+Alirocumab	DB09302	Atherosclerosis	C0004153		Approved			1		DOID:1936	atherosclerosis
+Clopidogrel	DB00758	Atherosclerosis	C0004153	NCT00385138	Terminated	Phase 3	Insufficient evidence of the clinical effectiveness of cangrelor	0	True	DOID:1936	atherosclerosis
+Cangrelor	DB06441	Atherosclerosis	C0004153	NCT00385138	Terminated	Phase 3	Insufficient evidence of the clinical effectiveness of cangrelor	0	True	DOID:1936	atherosclerosis
+Daclizumab	DB00111	Pure Red-Cell Aplasia	C0034902	NCT00001962	Terminated	Phase 2	DSMB recommended closing the study and publishing the results	0	True	DOID:2355	anemia
+Cyclosporine	DB00091	leukemia	C0023418	NCT00003056	Terminated	Phase 3	Interim analysis indicated study should be terminated	0	True	DOID:2531	hematologic cancer
+Methotrexate	DB00563	leukemia	C0023418	NCT00003056	Terminated	Phase 3	Interim analysis indicated study should be terminated	0	True	DOID:2531	hematologic cancer
+Alemtuzumab	DB00087	leukemia	C0023418	NCT00069992	Terminated	Phase 2	Closed due to competing protocols	0	True	DOID:2531	hematologic cancer
+Fludarabine	DB01073	leukemia	C0023418	NCT00069992	Terminated	Phase 2	Closed due to competing protocols	0	True	DOID:2531	hematologic cancer
+Cytarabine	DB00987	leukemia	C0023418	NCT00411281	Withdrawn	Phase 3	Per Group Chair: This study will not move forward.	0	True	DOID:2531	hematologic cancer
+Peginterferon alfa-2b	DB00022	leukemia	C0023418	NCT00415857	Terminated	Phase 2	Vaccine sponsor ceased operations.	0	True	DOID:2531	hematologic cancer
+Imatinib	DB00619	leukemia	C0023418	NCT00415857	Terminated	Phase 2	Vaccine sponsor ceased operations.	0	True	DOID:2531	hematologic cancer
+Aldesleukin	DB00041	leukemia	C0023418	NCT00625729	Terminated	Phase 1/Phase 2	No patients exhibited natural killer cell expansion (primary endpoint).	0	True	DOID:2531	hematologic cancer
+Rituximab	DB00073	leukemia	C0023418	NCT00625729	Terminated	Phase 1/Phase 2	No patients exhibited natural killer cell expansion (primary endpoint).	0	True	DOID:2531	hematologic cancer
+Fludarabine	DB01073	leukemia	C0023418	NCT00625729	Terminated	Phase 1/Phase 2	No patients exhibited natural killer cell expansion (primary endpoint).	0	True	DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	leukemia	C0023418	NCT00626626	Terminated	Phase 1/Phase 2	Investigator decision	0	True	DOID:2531	hematologic cancer
+Clofarabine	DB00631	leukemia	C0023418	NCT00626626	Terminated	Phase 1/Phase 2	Investigator decision	0	True	DOID:2531	hematologic cancer
+Vidarabine	DB00194	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Mycophenolate mofetil	DB00688	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Tacrolimus	DB00864	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Mycophenolic acid	DB01024	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Melphalan	DB01042	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Fludarabine	DB01073	leukemia	C0023418	NCT00827099	Terminated	Phase 2	Unacceptable morbidity & mortality	0	True	DOID:2531	hematologic cancer
+Azacitidine	DB00928	leukemia	C0023418	NCT00997243	Terminated	Phase 2	Drug no longer being supplied by sponsor	0	True	DOID:2531	hematologic cancer
+Asparaginase	DB00023	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Pegaspargase	DB00059	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Cyclophosphamide	DB00531	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Vincristine	DB00541	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Methotrexate	DB00563	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Imatinib	DB00619	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Prednisolone	DB00860	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Methylprednisolone	DB00959	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Doxorubicin	DB00997	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Dexamethasone	DB01234	leukemia	C0023418	NCT01005914	Terminated	Phase 2	Increased rate of bacterial infections	0	True	DOID:2531	hematologic cancer
+Cytarabine	DB00987	leukemia	C0023418	NCT01018069	Terminated	Phase 2	Failed to reach endpoints	0	True	DOID:2531	hematologic cancer
+Idarubicin	DB01177	leukemia	C0023418	NCT01018069	Terminated	Phase 2	Failed to reach endpoints	0	True	DOID:2531	hematologic cancer
+Propofol	DB00818	leukemia	C0023418	NCT01326078	Withdrawn	Phase 2/Phase 3	The Sponsor has no interest in continuing the study.	0	True	DOID:2531	hematologic cancer
+Alemtuzumab	DB00087	leukemia	C0023418	NCT01518153	Terminated	Phase 2	Objectives not met.	0	True	DOID:2531	hematologic cancer
+Methotrexate	DB00563	leukemia	C0023418	NCT01518153	Terminated	Phase 2	Objectives not met.	0	True	DOID:2531	hematologic cancer
+Tacrolimus	DB00864	leukemia	C0023418	NCT01518153	Terminated	Phase 2	Objectives not met.	0	True	DOID:2531	hematologic cancer
+Melphalan	DB01042	leukemia	C0023418	NCT01518153	Terminated	Phase 2	Objectives not met.	0	True	DOID:2531	hematologic cancer
+Fludarabine	DB01073	leukemia	C0023418	NCT01518153	Terminated	Phase 2	Objectives not met.	0	True	DOID:2531	hematologic cancer
+Aldesleukin	DB00041	Cutaneous Melanoma	C0151779	NCT00704938	Terminated	Phase 2	Terminated due to withdrawal of support from our collaborator.	0	True	DOID:4159	skin cancer
+Fludarabine	DB01073	Cutaneous Melanoma	C0151779	NCT00704938	Terminated	Phase 2	Terminated due to withdrawal of support from our collaborator.	0	True	DOID:4159	skin cancer
+Valproic Acid	DB00313	Medulloblastoma	C0025149	NCT01861990	Withdrawn	Phase 1	Feasibility of the trial was proven to be absent.	0	True	DOID:1319	brain cancer
+Iloprost	DB01088	Systemic Scleroderma	C0036421	NCT00622687	Terminated	Phase 2	sufficient number to reach the primary endpoint and as planned	0	True	DOID:418	systemic scleroderma
+Alemtuzumab	DB00087	Systemic Scleroderma	C0036421	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:418	systemic scleroderma
+Busulfan	DB01008	Systemic Scleroderma	C0036421	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:418	systemic scleroderma
+Fludarabine	DB01073	Systemic Scleroderma	C0036421	NCT00684255	Terminated	Phase 1	inactive	0	True	DOID:418	systemic scleroderma
+Irinotecan	DB00762	Mucinous adenocarcinoma of colon	C0279639	NCT01285102	Terminated	Phase 2	This study was closed early by the DSMB due to increased toxicity.	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	mucinous adenocarcinoma of rectum	C0279652	NCT01285102	Terminated	Phase 2	This study was closed early by the DSMB due to increased toxicity.	0	True	DOID:1993	rectum cancer
+Irinotecan	DB00762	signet ring adenocarcinoma of the colon	C0279640	NCT01285102	Terminated	Phase 2	This study was closed early by the DSMB due to increased toxicity.	0	True	DOID:219	colon cancer
+Irinotecan	DB00762	signet ring adenocarcinoma of the rectum	C0279654	NCT01285102	Terminated	Phase 2	This study was closed early by the DSMB due to increased toxicity.	0	True	DOID:1993	rectum cancer
+Carboplatin	DB00958	ovarian neoplasm	C0919267	NCT00407407	Terminated	Phase 1	MTD not determined	0	True	DOID:2394	ovarian cancer
+Paclitaxel	DB01229	ovarian neoplasm	C0919267	NCT00407407	Terminated	Phase 1	MTD not determined	0	True	DOID:2394	ovarian cancer
+Carboplatin	DB00958	ovarian neoplasm	C0919267	NCT00976183	Terminated	Phase 1/Phase 2	toxicities	0	True	DOID:2394	ovarian cancer
+Vorinostat	DB02546	ovarian neoplasm	C0919267	NCT00976183	Terminated	Phase 1/Phase 2	toxicities	0	True	DOID:2394	ovarian cancer
+Gemcitabine	DB00441	ovarian neoplasm	C0919267	NCT01016054	Terminated	Phase 1	Trial was terminated to allow sponsors to evaluate the future development of the drug program	0	True	DOID:2394	ovarian cancer
+Carboplatin	DB00958	ovarian neoplasm	C0919267	NCT01016054	Terminated	Phase 1	Trial was terminated to allow sponsors to evaluate the future development of the drug program	0	True	DOID:2394	ovarian cancer
+Doxorubicin	DB00997	ovarian neoplasm	C0919267	NCT01016054	Terminated	Phase 1	Trial was terminated to allow sponsors to evaluate the future development of the drug program	0	True	DOID:2394	ovarian cancer
+Gemcitabine	DB00441	ovarian neoplasm	C0919267	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:2394	ovarian cancer
+Carboplatin	DB00958	ovarian neoplasm	C0919267	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:2394	ovarian cancer
+Doxorubicin	DB00997	ovarian neoplasm	C0919267	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:2394	ovarian cancer
+Paclitaxel	DB01229	ovarian neoplasm	C0919267	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:2394	ovarian cancer
+Cisplatin	DB00515	Adenocarcinoma Of Esophagus	C0279628	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:5041	esophageal cancer
+Fluorouracil	DB00544	Adenocarcinoma Of Esophagus	C0279628	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:5041	esophageal cancer
+Cisplatin	DB00515	Adenocarcinoma Of Esophagus	C0279628	NCT00573131	Terminated	Phase 2	OncoGel did not show any impact on overall tumor response	0	True	DOID:5041	esophageal cancer
+Carboplatin	DB00958	Adenocarcinoma Of Esophagus	C0279628	NCT01395537	Terminated	Phase 1/Phase 2	Research Cancelled	0	True	DOID:5041	esophageal cancer
+Paclitaxel	DB01229	Adenocarcinoma Of Esophagus	C0279628	NCT01395537	Terminated	Phase 1/Phase 2	Research Cancelled	0	True	DOID:5041	esophageal cancer
+Lapatinib	DB01259	Adenocarcinoma Of Esophagus	C0279628	NCT01395537	Terminated	Phase 1/Phase 2	Research Cancelled	0	True	DOID:5041	esophageal cancer
+Cisplatin	DB00515	diffuse adenocarcinoma of the stomach	C0279635	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:10534	stomach cancer
+Fluorouracil	DB00544	diffuse adenocarcinoma of the stomach	C0279635	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:10534	stomach cancer
+Cisplatin	DB00515	Squamous cell carcinoma of esophagus	C0279626	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:5041	esophageal cancer
+Fluorouracil	DB00544	Squamous cell carcinoma of esophagus	C0279626	NCT00064259	Terminated	Phase 1/Phase 2	Discontinued development of G3139 (oblimersen)	0	True	DOID:5041	esophageal cancer
+Alemtuzumab	DB00087	Chronic myeloproliferative disorder	C1292778	NCT00069992	Terminated	Phase 2	Closed due to competing protocols	0	True	DOID:2531	hematologic cancer
+Fludarabine	DB01073	Chronic myeloproliferative disorder	C1292778	NCT00069992	Terminated	Phase 2	Closed due to competing protocols	0	True	DOID:2531	hematologic cancer
+Diclofenac	DB00586	Kidney Failure, Chronic	C0022661	NCT01481610	Terminated	Phase 2	Interim analysis shows harma to one of the study arms.	0	True	DOID:784	chronic kidney failure
+Lumiracoxib	DB01283	Kidney Failure, Chronic	C0022661	NCT01481610	Terminated	Phase 2	Interim analysis shows harma to one of the study arms.	0	True	DOID:784	chronic kidney failure
+Sorafenib	DB00398	Liver neoplasms	C0023903	NCT01009593	Terminated	Phase 3	See termination reason in detailed description	0	True	DOID:3571	liver cancer
+Sirolimus	DB00877	Liver neoplasms	C0023903	NCT01281943	Withdrawn	Phase 2	Doxil Shortage	0	True	DOID:3571	liver cancer
+Doxorubicin	DB00997	Liver neoplasms	C0023903	NCT01281943	Withdrawn	Phase 2	Doxil Shortage	0	True	DOID:3571	liver cancer
+Everolimus	DB01590	Liver neoplasms	C0023903	NCT01281943	Withdrawn	Phase 2	Doxil Shortage	0	True	DOID:3571	liver cancer
+Bortezomib	DB00188	Bronchioloalveolar Adenocarcinoma	C0007120	NCT00117351	Terminated	Phase 2	insufficient efficacy	0	True	DOID:1324	lung cancer
+Sildenafil	DB00203	Pre-Eclampsia	C0032914	NCT00141310	Terminated	Phase 2	Study prematurely discont’d 20-Apr-2006 after interim analysis suggested sample size could be    reduced without losing power. No safety concerns led to decision.	0	True	DOID:10763	hypertension
+Topiramate	DB00273	Metabolic Syndrome X	C0524620	NCT00243984	Suspended	Phase 3	Study was discontinued because of high drop out rate.	0	True	DOID:14221	metabolic syndrome X
+Dacarbazine	DB00851	Glioblastoma	C0017636	NCT00365222	Terminated	Phase 2	IRB Study Closure	0	True	DOID:3070	malignant glioma
+Temozolomide	DB00853	Glioblastoma	C0017636	NCT00365222	Terminated	Phase 2	IRB Study Closure	0	True	DOID:3070	malignant glioma
+Dacarbazine	DB00851	Glioblastoma	C0017636	NCT00895960	Terminated	Phase 1	Sponsor withdrew support; Study did not progress to Phase II.	0	True	DOID:3070	malignant glioma
+Temozolomide	DB00853	Glioblastoma	C0017636	NCT00895960	Terminated	Phase 1	Sponsor withdrew support; Study did not progress to Phase II.	0	True	DOID:3070	malignant glioma
+Dasatinib	DB01254	Glioblastoma	C0017636	NCT00895960	Terminated	Phase 1	Sponsor withdrew support; Study did not progress to Phase II.	0	True	DOID:3070	malignant glioma
+Valproic Acid	DB00313	Glioblastoma	C0017636	NCT01861990	Withdrawn	Phase 1	Feasibility of the trial was proven to be absent.	0	True	DOID:3070	malignant glioma
+Dacarbazine	DB00851	Glioblastoma	C0017636	NCT02661113	Withdrawn	Phase 2	Sponsor withdrew support; Study did not progress to Phase II (Phase I registration    NCT00895960)	0	True	DOID:3070	malignant glioma
+Temozolomide	DB00853	Glioblastoma	C0017636	NCT02661113	Withdrawn	Phase 2	Sponsor withdrew support; Study did not progress to Phase II (Phase I registration    NCT00895960)	0	True	DOID:3070	malignant glioma
+Dasatinib	DB01254	Glioblastoma	C0017636	NCT02661113	Withdrawn	Phase 2	Sponsor withdrew support; Study did not progress to Phase II (Phase I registration    NCT00895960)	0	True	DOID:3070	malignant glioma
+Dacarbazine	DB00851	gliosarcoma	C0206726	NCT00365222	Terminated	Phase 2	IRB Study Closure	0	True	DOID:3070	malignant glioma
+Temozolomide	DB00853	gliosarcoma	C0206726	NCT00365222	Terminated	Phase 2	IRB Study Closure	0	True	DOID:3070	malignant glioma
+Sunitinib	DB01268	Pancreatic Endocrine Carcinoma	C1328479	NCT00428597	Terminated	Phase 3	Refer to Detailed Description.	0	True	DOID:1793	pancreatic cancer
+Sunitinib	DB01268	Pancreatic carcinoma	C0235974	NCT00428597	Terminated	Phase 3	Refer to Detailed Description.	0	True	DOID:1793	pancreatic cancer
+Bevacizumab	DB00112	Cholangiocarcinoma	C0206698	NCT00426829	Terminated	Phase 1	Low Accural	0	True	DOID:4606	bile duct cancer
+Carboplatin	DB00958	Fallopian Tube Neoplasms	C0015558	NCT00407407	Terminated	Phase 1	MTD not determined	0	True	DOID:1964	fallopian tube cancer
+Paclitaxel	DB01229	Fallopian Tube Neoplasms	C0015558	NCT00407407	Terminated	Phase 1	MTD not determined	0	True	DOID:1964	fallopian tube cancer
+Gemcitabine	DB00441	Fallopian Tube Neoplasms	C0015558	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:1964	fallopian tube cancer
+Carboplatin	DB00958	Fallopian Tube Neoplasms	C0015558	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:1964	fallopian tube cancer
+Doxorubicin	DB00997	Fallopian Tube Neoplasms	C0015558	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:1964	fallopian tube cancer
+Paclitaxel	DB01229	Fallopian Tube Neoplasms	C0015558	NCT01279291	Terminated	Phase 1	The study was stopped due to the inability to determine an acceptable dose with the potential    for further study	0	True	DOID:1964	fallopian tube cancer
+Gemcitabine	DB00441	Pancreatic Neoplasm	C0030297	NCT00574275	Terminated	Phase 3	Data Monitoring Committee concluded after a planned interim analysis that aflibercept added to    gemcitabine would be unable to demonstrate improved survival	0	True	DOID:1793	pancreatic cancer
+Carboplatin	DB00958	Epithelial ovarian cancer	C0677886	NCT01000896	Withdrawn	Phase 1	AstraZeneca has discontinued the development of AZD0530. No new AstraZeneca-sponsored clinical    studies will be initiated..	0	True	DOID:2394	ovarian cancer
+Paclitaxel	DB01229	Epithelial ovarian cancer	C0677886	NCT01000896	Withdrawn	Phase 1	AstraZeneca has discontinued the development of AZD0530. No new AstraZeneca-sponsored clinical    studies will be initiated..	0	True	DOID:2394	ovarian cancer
+Vincristine	DB00541	Adult Kidney Wilms Tumor	C1332219	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Etoposide	DB00773	Adult Kidney Wilms Tumor	C1332219	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Dactinomycin	DB00970	Adult Kidney Wilms Tumor	C1332219	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Doxorubicin	DB00997	Adult Kidney Wilms Tumor	C1332219	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Vincristine	DB00541	Childhood Kidney Wilms Tumor	C1333015	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Etoposide	DB00773	Childhood Kidney Wilms Tumor	C1333015	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Dactinomycin	DB00970	Childhood Kidney Wilms Tumor	C1333015	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Doxorubicin	DB00997	Childhood Kidney Wilms Tumor	C1333015	NCT00945009	Suspended	Phase 3	Temporarily stopped for assessment	0	True	DOID:263	kidney cancer
+Erlotinib	DB00530	Adrenal Gland Neoplasms	C0001624	NCT00947167	Terminated	Phase 2	Extreme toxicity of Pertuzumab and Erlotinib combination	0	True	DOID:3953	adrenal gland cancer
+Pertuzumab	DB06366	Adrenal Gland Neoplasms	C0001624	NCT00947167	Terminated	Phase 2	Extreme toxicity of Pertuzumab and Erlotinib combination	0	True	DOID:3953	adrenal gland cancer
+Fenofibrate	DB01039	Coronary Arteriosclerosis	C0010054	NCT01030328	Terminated	Phase 3	Lack of patient population	0	True	DOID:3393	coronary artery disease
+Atorvastatin	DB01076	Coronary Arteriosclerosis	C0010054	NCT01030328	Terminated	Phase 3	Lack of patient population	0	True	DOID:3393	coronary artery disease
+Bevacizumab	DB00112	adult glioblastoma	C0278878	NCT01189240	Terminated	Phase 1/Phase 2	Company decided to stop development of drug - 7/31/12	0	True	DOID:3070	malignant glioma
+Cyclophosphamide	DB00531	Malignant neoplasm of skin	C0007114	NCT01236573	Terminated	Phase 1/Phase 2	Unexpected toxicities, likely due to TIL/IL-12 & low % of durable responses.	0	True	DOID:4159	skin cancer
+Fludarabine	DB01073	Malignant neoplasm of skin	C0007114	NCT01236573	Terminated	Phase 1/Phase 2	Unexpected toxicities, likely due to TIL/IL-12 & low % of durable responses.	0	True	DOID:4159	skin cancer
+Sunitinib	DB01268	Plexiform Neurofibroma	C0206728	NCT01402817	Suspended	Phase 2	1 patient died of uncertain cause but possibly related to drug. Regulatory currently reviewing	0	True	DOID:1192	peripheral nervous system neoplasm
+Metformin	DB00331	Polycystic Ovary Syndrome	C0032460	NCT01638988	Withdrawn	Phase 3	Previous studies have been done regarding same condition	0	True	DOID:11612	polycystic ovary syndrome
+Clomifene	DB00882	Polycystic Ovary Syndrome	C0032460	NCT01638988	Withdrawn	Phase 3	Previous studies have been done regarding same condition	0	True	DOID:11612	polycystic ovary syndrome
+Paclitaxel	DB01229	Squamous cell carcinoma of skin	C0553723	NCT02076243	Terminated	Phase 2	Closed by sponsor	0	True	DOID:4159	skin cancer
+Gemcitabine	DB00441	Pancreatic Ductal Adenocarcinoma	C1335302	NCT02194829	Suspended	Phase 1/Phase 2	Temporarily stopped for assessment.	0	True	DOID:1793	pancreatic cancer
+Paclitaxel	DB01229	Pancreatic Ductal Adenocarcinoma	C1335302	NCT02194829	Suspended	Phase 1/Phase 2	Temporarily stopped for assessment.	0	True	DOID:1793	pancreatic cancer
+Dimethyl fumarate	DB08908	Multiple Sclerosis, Secondary Progressive	C0751965	NCT02430532	Terminated	Phase 3	Sponsor Decision	0	True	DOID:2377	multiple sclerosis
